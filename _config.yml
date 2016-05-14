@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yoursite.com
+title: Kansas City Electronic Music and Arts Alliance
+email: your-email@domain.com
+author: KcEMA
+description: > # "Write an awesome description for your new site here. 
+  Kansas City Electronic Music and Arts Alliance (KcEMA) was founded in 2007
+  and works to support and develop the electronic music and arts community in Kansas City.
+copyright: 'Copyright &copy; 2016 KcEMA. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: 
