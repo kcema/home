@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ipad.png
-category: Call
+category: Concerts
 title: 2016-17 Concert Season Lineup
 description: |
 ---
