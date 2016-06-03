@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Call
-title: International Call for Scores 2016-17
+title: 2016-17 Concert Season Lineup
 description: |
 ---
   Coming soon!
