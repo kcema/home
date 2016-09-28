@@ -4,7 +4,7 @@
 
 url: http://kcema.net
 title: KcEMA
-email: your-email@domain.com
+email: kcema.alliance@gmail.com
 author: KcEMA
 description: > # "Write an awesome description for your new site here. 
   Kansas City Electronic Music and Arts Alliance (KcEMA) was founded in 2007
@@ -24,6 +24,11 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
+  - title: Twitter
     url: https://twitter.com/kcemalliance
+  - title: Facebook
+    url: https://www.facebook.com/KCEMAlliance/
+  - title: YouTube
+    url: https://www.youtube.com/user/KCEMAlliance
+
 
