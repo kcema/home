@@ -7,6 +7,7 @@ title: 2016-17 Season Announcement
 description: 2016-2017 Season
 tag: first
 author: John Chittum
+excerpt_separator: <!--more-->
 ---
 
 ## KcEMA ReLaunch ##
@@ -19,3 +20,5 @@ Thanks for dropping by,
 
 John Chittum
 KcEMA President
+
+<!--more-->

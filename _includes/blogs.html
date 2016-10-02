@@ -1,13 +1,14 @@
 <section id="blogs">
 <!-- Page Content -->
+
 {% for post in site.posts %}
     {% if post.tag == "first" %}
     <div class="content-section-b">
-
         <div class="container">
 
             <div class="row">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <h3> <a href="/blog"> See more blogs! </a></h3>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading"><a href={{post.url}}>{{ post.title }}</a></h2>
@@ -49,7 +50,7 @@
                 </div>
                 {%endif%}
             </div>
-
+            <h3> <a href="/blog"> See more blogs! </a></h3>
         </div>
         <!-- /.container -->
 
