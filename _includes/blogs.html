@@ -29,7 +29,7 @@
     {% endif %}
 {% endfor %}
     <!-- /.content-section-b this is image left side -->
-{% for post in site.post limit: 1 %}
+{% for post in site.posts limit: 1 %}
     <div class="content-section-a">
 
         <div class="container">
@@ -38,7 +38,7 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <h2 class="section-heading"><a href={{post.url}}>{{ post.title }}</a></h2>
                     <h4> {{post.date | date: "%b %-d, %Y"}} </h4>
                     <h5> {{post.author}} </h5>
                     <div class="lead">{{ post.excerpt }}</div>
