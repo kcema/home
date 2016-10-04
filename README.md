@@ -1,3 +1,40 @@
+#KcEMA Website
+
+## adding content
+
+### adding blog posts
+
+checkout development
+
+write content. Content is done in [Markdown](https://daringfireball.net/projects/markdown/syntax)
+
+save new post in _posts with name in following format: 
+
+{YEAR}-{MONTH}-{DAY}-short-title.markdown
+
+Include the headers. YAML headers live between ---
+
+Ex:
+
+---
+layout: singleblog
+category: Video
+title: Get to know ChucK and KcEMA President
+description: Interview and Demo
+tag: video
+author: John Chittum
+---
+
+Required:
+
+* layout:singleblog
+* category: {ANYTHING}
+* title: {ANYTHING}
+* description: {ANYTHING}
+* tag: {ANYTHING}
+* author: {YOUR NAME}
+
+
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
