@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: singleblog
 img: kcema_pic_2.jpg
 img_alt: Squint and you may see
 category: Concerts
 title: 2016-17 Season Announcement
 description: 2016-2017 Season
+tag: first
+author: John Chittum
+excerpt_separator: <!--more-->
 ---
 
 ## KcEMA ReLaunch ##
@@ -17,3 +20,5 @@ Thanks for dropping by,
 
 John Chittum
 KcEMA President
+
+<!--more-->
