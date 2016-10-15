@@ -1,6 +1,6 @@
 #KcEMA Website
 
-[color palette](http://paletton.com/#uid=63k0s0ktJjAlsr6BfpeFffSM99K)
+[color palette](http://paletton.com/#uid=63k0s0ktJjA9ntCJivwOffkYj5x)
 
 ## adding content
 
