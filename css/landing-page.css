@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 .lead {
@@ -31,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/intro-invert.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -39,12 +39,15 @@ h6 {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
+    color:#668C90;
+    padding: 3em;
 }
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 1px 1px 20px black;
     font-size: 5em;
+    opacity:1;
 }
 
 .intro-divider {
