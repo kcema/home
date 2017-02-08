@@ -19,3 +19,5 @@ img_alt: Temporality has Turned on this mixer
 
 
 Five composers/collectives lead listeners through the exhibition Temporal Turn with a concert of new music that meanders through the galleries along a prescribed path. Each composition amplifies one of the five exhibition themes. Presented by the Kansas City Electronic Music and Arts Alliance, the program features new works by Hong Hong Hui, Frank Nawrot, Mt. Asther (Cody Kauhl and Stacy Busch), Seth Davis and Tim Harte, and Trio Defecta (Jeff Borowiec, Christina Butera, and John Chittum).
+
+<!--more-->
