@@ -5,7 +5,7 @@ img_alt: Squint and you may see
 category: Concerts
 title: 2016-17 Season Announcement
 description: 2016-2017 Season
-tag: first
+tag: season
 author: John Chittum
 excerpt_separator: <!--more-->
 ---
