@@ -1,7 +1,7 @@
 ---
 layout: singleblog
 category: concert
-title: Soundwalk: Temporal Turn
+title: Soundwalk Temporal Turn
 description: Concert at Spencer Museum of Art
 tag: first
 author: John Chittum
