@@ -30,6 +30,7 @@ Charlotte Street and partners showcase new performance-based work featuring expe
 
 
 ### Soundwalk: Temporal Turn ###
+
 #### Feburary 18th 2pm ####
 
 **[Spencer Museum of Art](https://www.spencerart.ku.edu/)**
