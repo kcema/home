@@ -3,7 +3,7 @@ layout: singleblog
 category: call
 title: Call for Works--Liz Pearse, Soprano
 description: Call for works
-tag: first
+tag: call
 author: John Chittum
 excerpt_separator: <!--more-->
 img: liz_orig.png

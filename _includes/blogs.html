@@ -1,7 +1,7 @@
 <section id="blogs">
 <!-- Page Content -->
 
-{% for post in site.posts %}
+{% for post in site.posts %} 
     {% if post.tag == "first" %}
     <div class="content-section-b">
         <div class="container">
@@ -31,6 +31,9 @@
 {% endfor %}
     <!-- /.content-section-b this is image left side -->
 {% for post in site.posts limit: 1 %}
+    {% if post.tag == "first"%}
+
+    {% else %}
     <div class="content-section-a">
 
         <div class="container">
@@ -50,11 +53,12 @@
                 </div>
                 {%endif%}
             </div>
-            <h3> <a href="/blog"> See more blogs! </a></h3>
+            <h3> <a href="/blog"> Read More! </a></h3>
         </div>
         <!-- /.container -->
 
     </div>
+    {% endif %}
 {% endfor %}
     <!-- /.content-section-a this is image right side -->
 
