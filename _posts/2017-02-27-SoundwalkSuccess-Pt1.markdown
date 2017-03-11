@@ -3,7 +3,7 @@ layout: singleblog
 category: blog
 title: Making A Successful Museum Soundwalk pt. 1
 description: Months in the making.
-tag: concert
+tag: [concert, first]
 author: John Chittum
 excerpt_separator: <!--more-->
 ---
