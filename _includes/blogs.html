@@ -1,8 +1,9 @@
 <section id="blogs">
 <!-- Page Content -->
 
-{% for post in site.posts %} 
-    {% if post.tag == "first" %}
+{% for post in site.posts %}
+    {% for tag in post.tag %} 
+    {% if tag == "first" %}
     <div class="content-section-b">
         <div class="container">
 
@@ -14,7 +15,7 @@
                     <h2 class="section-heading"><a href={{post.url}}>{{ post.title }}</a></h2>
                     <h4> {{post.date | date: "%b %-d, %Y"}} </h4>
                     <h5> {{post.author}} </h5>
-                    <div class="lead">{{ post.content }}</div>
+                    <div class="lead">{{ post.excerpt }}</div>
                 </div>
                 {% if post.img %}
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -28,10 +29,12 @@
 
     </div>
     {% endif %}
+    {% endfor %}
 {% endfor %}
     <!-- /.content-section-b this is image left side -->
 {% for post in site.posts limit: 1 %}
-    {% if post.tag == "first"%}
+    {% for tag in post.tag %}
+    {% if tag == "first" %}
 
     {% else %}
     <div class="content-section-a">
@@ -59,6 +62,7 @@
 
     </div>
     {% endif %}
+    {% endfor %}
 {% endfor %}
     <!-- /.content-section-a this is image right side -->
 
