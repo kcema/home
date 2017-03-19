@@ -1,6 +1,7 @@
 <section>
 <!-- Page Content -->
-{% for post in site.posts reversed %}
+{% assign sorted = (site.posts | sort='date') | reverse %}
+{% for post in sorted %}
     {% capture thecycle %}{% cycle '0', '1' %}{% endcapture %}
     {% if thecycle == '0' %}
     <div class="content-section-a">
