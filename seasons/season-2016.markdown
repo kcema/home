@@ -39,11 +39,21 @@ Five composers/collectives lead listeners through the exhibition Temporal Turn w
 
 ### Liz Pearse, featured performer ###
 
-#### April 14th ####
+#### April 20th ####
 
-**TBD**
+**Westport Coffee House**
 
-On April 14, 2017, The Kansas City Electronic Music and Arts Alliance will present a concert of works for soprano and electronics featuring local artist Liz Pearse. The program will include Milton Babbitt’s Philomel, Kaija Saariaho’s Lohn, and recent works by composers based in the greater Kansas City area (including Lawrence, Columbia, and other nearby areas).
+4010 Pennsylvania Ave, Kansas City, MO 64111
+
+On April 20th, 2017, The Kansas City Electronic Music and Arts Alliance will present a concert of works for soprano and electronics featuring local artist Liz Pearse. Come to Westport Coffee House Theater, bring in a beer from The Green Room or coffee from Westport Coffee House, and enjoy an amazing program by the esteemable Liz Pearse!
+
+The program will include: 
+* **Philomel** : Milton Babbitt
+* **Lohn** : Kaija Saariaho
+* **The Hypnodomme Speaks and Speaks and Speaks** : Jason Charney
+* **If your boy leads** : Daniel Eichenbaum
+* **EXCURSUS** : Cody Kauhl
+
 
 ### A Midsummer's Multichannel Rave ###
 
