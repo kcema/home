@@ -3,7 +3,7 @@ title: 2016-17 Season
 description: 2016-2017 Season
 img: 2016postcard.jpg
 img_alt: 2016 postcard
-season: Yes
+date: 2016-08-01
 ---
 ### KcEMA ReLaunch! ###
 
@@ -54,11 +54,3 @@ The program will include:
 * **If your boy leads** : Daniel Eichenbaum
 * **EXCURSUS** : Cody Kauhl
 
-
-### A Midsummer's Multichannel Rave ###
-
-#### June ####
-
-**TBD**
-
-How many speakers can we gather in one location? What happens if you jump into a party, and sounds swirl around you in every direction? This isn't an every day dance party. Featuring local KC artists
