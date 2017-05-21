@@ -3,7 +3,7 @@ title: 2016-17 Season
 description: 2016-2017 Season
 img: 2016postcard.jpg
 img_alt: 2016 postcard
-season: "2016"
+date: 2016-08-01
 ---
 ### KcEMA ReLaunch! ###
 
