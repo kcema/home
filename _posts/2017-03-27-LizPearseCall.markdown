@@ -3,7 +3,7 @@ layout: singleblog
 category: blog
 title: Liz Pearse Call Winners and Recap
 description: Congrats Dan and Cody. and KcEMA is working on transparency
-tag: [concert, first]
+tag: [concert]
 author: John Chittum
 excerpt_separator: <!--more-->
 ---
