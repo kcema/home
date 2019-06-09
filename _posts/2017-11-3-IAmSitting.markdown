@@ -3,7 +3,7 @@ layout: singleblog
 category: blog
 title: I Am Sitting in a Room Live
 description: Alvin Lucier, live performance, and a history
-tag: [concert, first]
+tag: [concert]
 author: Christina Butera
 excerpt_separator: <!--more-->
 ---
