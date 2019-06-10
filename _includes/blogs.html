@@ -1,9 +1,5 @@
 <section id="blogs">
 <!-- Page Content -->
-
-{% for post in site.posts %}
-    {% for tag in post.tag %} 
-    {% if tag == "first" %}
     <div class="content-section-b">
         <div class="container">
 
@@ -12,6 +8,9 @@
                     <h3> <a href="/blog"> See more blogs! </a></h3>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
+                    {% for post in site.posts %}
+                    {% for tag in post.tag %}
+                    {% if tag == "first" %}
                     <h2 class="section-heading"><a href={{post.url}}>{{ post.title }}</a></h2>
                     <h4> {{post.date | date: "%b %-d, %Y"}} </h4>
                     <h5> {{post.author}} </h5>
@@ -31,39 +30,4 @@
     {% endif %}
     {% endfor %}
 {% endfor %}
-    <!-- /.content-section-b this is image left side -->
-{% for post in site.posts limit: 1 %}
-    {% for tag in post.tag %}
-    {% if tag == "first" %}
-
-    {% else %}
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading"><a href={{post.url}}>{{ post.title }}</a></h2>
-                    <h4> {{post.date | date: "%b %-d, %Y"}} </h4>
-                    <h5> {{post.author}} </h5>
-                    <div class="lead">{{ post.excerpt }}</div>
-                </div>
-                {%if post.img%}
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/blogs/{{ post.img }}" alt="{{post.img_alt}}">
-                </div>
-                {%endif%}
-            </div>
-            <h3> <a href="/blog"> Read More! </a></h3>
-        </div>
-        <!-- /.container -->
-
-    </div>
-    {% endif %}
-    {% endfor %}
-{% endfor %}
-    <!-- /.content-section-a this is image right side -->
-
 </section>
