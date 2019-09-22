@@ -15,6 +15,7 @@
                     <h4> {{post.date | date: "%b %-d, %Y"}} </h4>
                     <h5> {{post.author}} </h5>
                     <div class="lead">{{ post.excerpt }}</div>
+                    <h3> <a href="{{post.url}}"> Continue reading the post here. </a></h3>
                 </div>
                 {% if post.img %}
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
