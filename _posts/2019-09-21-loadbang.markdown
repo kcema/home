@@ -2,8 +2,7 @@
 layout: singleblog
 category: blog
 title: Finish with a (load)Bang! Call for Proposals
-description: 
-tag: first
+description: Call for callaboration.
 author: John Chittum
 excerpt_separator: <!--more-->
 img: presskit_jpg.jpg
@@ -12,6 +11,8 @@ img_alt: loadbang ensemble
 ## 2020 “Finish with a bang” Collaboration Call
 
 Kansas City Electronic Music and Arts Alliance and the University of Missouri Kansas City are proud to present a collaboration opportunity with New York City-based new music chamber group [loadbang](https://www.loadbang.com/)! Chosen composers will get a chance to write a piece for loadbang, and receive, minimally, a premiere performance in Kansas City, and a professionally done live recording of the performance. Composers will also have an opportunity to work with the group in Kansas City before the show, collaborate across the miles, and attend any other events related to the show.
+
+<!--more-->
 
 ### Call specifics
 
