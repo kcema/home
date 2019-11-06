@@ -14,7 +14,7 @@ img_alt: loadbang ensemble
 
 Kansas City Electronic Music and Arts Alliance and [loadbang](https://www.loadbang.com/) are excited to announce the winners of our collaboration call for proposals!
 
-[Stacy Busch](www.stacybusch.com)
+[Stacy Busch](http://www.stacybusch.com)
 
 [Seth Andrew Davis](http://www.sethandrewdavis.com/)
 
